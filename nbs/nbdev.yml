@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-repo"
+  site-url: "https://farahalfawzy.github.io/test-repo"
+  description: "test"
+  repo-branch: testing-nbdev
+  repo-url: "https://github.com/farahalfawzy/test-repo"
